@@ -1,0 +1,21 @@
+# Private Internal Build & Drafts
+build.py
+nuanscape_facts.md
+nuanscape_profile.md
+archive/
+templates/
+*.odt
+*.docx
+*.py
+
+# Raw Canva & Temp Assets
+output/assets/*.pdf
+output/assets/canva_cover*
+output/assets/1000000*
+output/Nuanscape_Company_Profile.odt
+output/Nuanscape_Company_Profile.docx
+
+# OS & Temp Files
+.~lock.*
+.DS_Store
+__pycache__/
